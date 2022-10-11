@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>veloce01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e444fe98-198d-448a-89cf-27b0498aaa90</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72fe10af-2826-46fa-a0ac-9135feffdded</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Are you sure to push this balance ?\r\n'</defaultValue>
+      <description></description>
+      <id>72fe10af-2826-46fa-a0ac-9135feffdded</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

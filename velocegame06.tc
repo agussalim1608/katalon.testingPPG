@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>velocegame06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f72b1857-4aeb-4577-9c37-e76f2148eaf5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d18c9a0d-d19b-46c6-b14b-69c3a5f90047</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Are you sure to push this balance ?\r\n'</defaultValue>
+      <description></description>
+      <id>d18c9a0d-d19b-46c6-b14b-69c3a5f90047</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
